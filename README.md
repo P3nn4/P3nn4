@@ -5,7 +5,7 @@ Profissional de T.I altamente motivado com uma base sólida em hardware, redes e
 
 <div>
   <a href="https://github.com/P3nn4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=P3nn4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P3nn4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3nn4&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
