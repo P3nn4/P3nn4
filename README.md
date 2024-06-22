@@ -3,6 +3,11 @@
 Profissional de T.I altamente motivado com uma base sólida em hardware, redes e programação. Experiência comprovada como Help Desk e desenvolvedor freelancer. Conhecimento em Python, Java, SQL, HTML, CSS e Bootstrap.
 
 
+<div>
+  <a href="https://github.com/P3nn4">
+    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=P3nn4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3nn4&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fee-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
