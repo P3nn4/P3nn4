@@ -1,4 +1,4 @@
-## Opa!! Meu nome é Felipe, sou estudante de ADS e tô indo pelo caminho de cybersecurity
+## Opa!! Meu nome é Felipe, sou estudante de ADS, metido a economista e nas horas vagas tento ser white hat
 
 Profissional de T.I altamente motivado com uma base sólida em hardware, redes e programação. Experiência comprovada como Help Desk e desenvolvedor freelancer. Conhecimento em Python, Java, SQL, HTML, CSS e Bootstrap.
 
